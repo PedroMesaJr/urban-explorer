@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Database
+data/*.db
+data/*.db-journal
+*.sqlite
+*.sqlite3
+
+# Logs
+logs/*.log
+*.log
+
+# Exports
+exports/*.csv
+exports/*.xlsx
+exports/*.json
+
+# Configuration
+config.yml
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Media downloads
+media/
+images/
+
+# Temp files
+tmp/
+temp/
+*.tmp
